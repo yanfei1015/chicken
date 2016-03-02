@@ -302,6 +302,7 @@
             NSLog(@"%@",request.responseObject);
         };
     }];
+    NSLog(@"ssss");
 }
 
 //3.1.3用户登录【已发布】
